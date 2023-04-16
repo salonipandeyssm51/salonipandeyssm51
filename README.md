@@ -1,9 +1,9 @@
 ## Welcome to Saloni Kumari github resume!
 
 ### Introduction :
-Hi! I'm Saloni Kumari .Basically I am from Sasaram, Bihar and currently was working in iProgrammer Solution Pvt Ltd.
-I did my 10<sup>th</sup> and 12<sup>th</sup> from CBSE  Board. I have Completed my Graduation from Veer Kuwar Singh University.
-And Currently I Persued my MCA from Dr.D.Y Patil Institute of management and research,Pune with 8.9 cgpa.
+Hi! I'm Saloni Kumari .Basically I am from Sasaram, Bihar and was working in iProgrammer Solution Pvt Ltd.
+I did my 10<sup>th</sup> and 12<sup>th</sup> from CBSE  Board. I have Completed my Graduation from Veer Kuwar Singh University,
+And  Persued my MCA from Dr.D.Y Patil Institute of management and research,Pune with 8.9 cgpa.
 
 
 # Technology Stack
