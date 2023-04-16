@@ -76,7 +76,7 @@ Email-[Mail-salonipandeyssm51@gmail.com](mailto:salonipandeyssm51@gmail.com)
 
 LinkedIn - [https://www.linkedin.com/in/saloni-pandey-750b9118a/](https://www.linkedin.com/in/saloni-pandey-750b9118a/)
 
-Github - [https://github.com/salonipandeyssm51/salonipandeyssm51](https://github.com/salonipandeyssm51/salonipandeyssm51)
+Github - [https://github.com/salonipandeyssm51](https://github.com/salonipandeyssm51)
 
 
 ## Area of interest and life Goals
